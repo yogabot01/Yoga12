@@ -1,0 +1,53 @@
+
+
+   1.Dilarang Up Ke Yt Tanpa Seizin Dari Kami
+   2.Dilarang memberian sc ini secara gratis ketahuan = eror.
+   3.Dilarang Menjual Script Ini Ketahuan = eror
+   4.Harap Berhati² Dalam Membeli Script ini
+   
+                                                              
+
+RUN DI PANEL 
+
+Link Cara Run di Panel 
+Link? https://youtu.be/_h5AtVtiUVc
+
+
+RUN DI TERMUX
+
+Link Cara Run di termux
+https://youtu.be/JTfMr-UMsb0
+
+
+
+CARA INSTALL MODULE DI TERMUX
+
+pkg install nodejs
+pkg install mc
+cd /sdcard
+cp -r namafile /$HOME
+cd
+cd nama file
+npm i
+npm audit fix --force
+
+mc
+pilih node_module
+copy
+copy ke file
+/storage/emulated/0/nama file
+
+
+JIKA SUDAH ADA MODULE 
+
+pkg update && pkg upgrade
+pkg install nodejs
+pkg install bash
+pkg install git
+pkg install libwebp
+pkg install imagemagick
+pkg install ffmpeg
+termux-setup-storage
+cd /sdcard/
+npm start
+
